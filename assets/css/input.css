@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.raunt-contenner {
+  background-image: url("/img/Overlay.png"), no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+}
